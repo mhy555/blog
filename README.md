@@ -1,2 +1,2 @@
 # blog
-This is my personnal blog!
+This is my personal blog!
